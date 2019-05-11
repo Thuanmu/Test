@@ -44,7 +44,7 @@ Lưu trữ code: [Github](https://github.com/thangnmuet2017/TroTotHN)
     
 - #### Hướng dẫn sử dụng tính năng của sản phẩm: 
     
-    + Mở trình duyệt lên và gõ "https://trotothn.000webhostapp.com" để dẫn tới phần mềm.
+    + Mở trình duyệt lên và gõ "https://trotothn.000webhostapp.com" trên thanh địa chỉ Web để dẫn tới phần mềm.
     
     + Nhấn vào "Đăng ký" để tạo tài khoản và mật khẩu người dùng (Sau khi tạo xong nó sẽ tự động đăng nhập).
     
