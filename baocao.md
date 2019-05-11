@@ -12,11 +12,11 @@
 # Báo cáo cá nhân môn học Công nghệ phần mềm
 
 
-Bài tập nhóm: Trọ tốt HN
+### Bài tập nhóm: Trọ tốt HN
 
-Trang Web: [Website](https://trotothn.000webhostapp.com/)
+### Trang Web: [Website](https://trotothn.000webhostapp.com/)
 
-Lưu trữ code: [Github](https://github.com/thangnmuet2017/TroTotHN)
+### Lưu trữ code: [Github](https://github.com/thangnmuet2017/TroTotHN)
 
 - #### User story: Là một người đang tìm kiếm phòng trọ, tôi muốn có một tài khoản người dùng để có thể tương tác với mọi người và sử dụng các   chức năng của phần mềm.
 
